@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building
+  - GameOverZone
+  - Crane
+  - PointSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sun
+    uniqueID: 366319087
+    locked: 0
+  - name: BackgroundCity2
+    uniqueID: 3076841215
+    locked: 0
+  - name: BackgroundCity1
+    uniqueID: 1378542955
+    locked: 0
+  - name: Cloud
+    uniqueID: 3839739743
+    locked: 0
+  - name: City
+    uniqueID: 637246237
+    locked: 0
+  - name: Trees
+    uniqueID: 3247963909
+    locked: 0
+  - name: Grass
+    uniqueID: 2428938187
+    locked: 0
+  - name: Fence
+    uniqueID: 3282033087
+    locked: 0
+  - name: Sing
+    uniqueID: 3058010853
+    locked: 0
+  - name: Crane
+    uniqueID: 4036069805
+    locked: 0
+  - name: Building
+    uniqueID: 2541142383
+    locked: 0
+  - name: Ground
+    uniqueID: 2715325375
+    locked: 0
